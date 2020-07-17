@@ -2,4 +2,5 @@
 
 A simple drum kit page built with HTML, CSS and JavaScript 
 
-Site link: https://avkmal.github.io/javascript-drum-kit/
+Site Link: 
+<a href="https://avkmal.github.io/javascript-drum-kit/" target="_blank">avkmal.github.io/javascript-drum-kit</a>
